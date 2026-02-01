@@ -3,6 +3,7 @@ import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { motion, AnimatePresence } from "framer-motion"
 import { Heart, Sparkles, Copy, Check } from "lucide-react"
+import { Link } from "react-router"
 
 export default function Home() {
   const [name, setName] = useState("")
@@ -122,7 +123,7 @@ export default function Home() {
                 </p>
 
                 <div className="text-center wrap-break-words px-4 py-3 rounded-xl bg-card/70 border border-border/40 font-medium text-primary">
-                  https://bemyval-ohov.onrender.com/{name}
+                  <Link to={`https://bemyval-ohov.onrender.com/${name}`}>https://bemyval-ohov.onrender.com/{name}</Link> 
                 </div>
 
                 <Button
