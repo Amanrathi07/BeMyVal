@@ -122,7 +122,7 @@ export default function Home() {
                 </p>
 
                 <div className="text-center wrap-break-words px-4 py-3 rounded-xl bg-card/70 border border-border/40 font-medium text-primary">
-                  https://bemyval-ohov.onrender.com//{name}
+                  https://bemyval-ohov.onrender.com/{name}
                 </div>
 
                 <Button
