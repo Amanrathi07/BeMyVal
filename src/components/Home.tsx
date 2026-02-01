@@ -18,7 +18,7 @@ export default function Home() {
 
   const handleCopy = () => {
     navigator.clipboard.writeText(
-      `https://bemyval-ohov.onrender.com//${name}`
+      `https://bemyval-ohov.onrender.com/${name}`
     )
     setCopied(true)
     setTimeout(() => setCopied(false), 2000)
