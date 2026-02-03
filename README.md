@@ -19,7 +19,7 @@ This project uses:
 - **React** — UI library for building interactive components  
 - **TypeScript** — type safety on top of JavaScript  
 - **Vite** — lightning-fast build tooling  
-- **CSS / Tailwind ** — beautiful design and responsiveness
+- **CSS-Tailwind** — beautiful design and responsiveness
 
 ---
 
