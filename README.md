@@ -23,17 +23,6 @@ This project uses:
 
 ---
 
-## 🚀 Features
-
-> (Update this list based on your actual UI and interactions)
-
-- 💌 Interactive Valentine prompt  
-- 💫 Animated transitions & effects  
-- 📱 Fully responsive layout  
-- 💐 Customizable messages or themes  
-- 🎵 Optional background music
-
----
 
 ## 📦 Installation
 
